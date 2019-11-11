@@ -10,5 +10,5 @@ def sayhello():
 def sayhellotoprabodhan():
     return "Hello Prabodhan!"
 
-# if __name__ == "__main__":
-#     app.run()
+if __name__ == "__main__":
+     app.run()
